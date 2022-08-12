@@ -1,1 +1,1 @@
-# web-xender - easy file sharing
+# web-xender - easy file sharing website
